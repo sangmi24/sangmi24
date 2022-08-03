@@ -6,9 +6,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=sangmi%20oh&fontSize=90" />
 
-<h2>Hello! I'm sangmioh</h2>
-<h3 align="center">Tech Stack</h3>
-<h4 align="center">Tech that I've used at least once</h4>
+<h2>안녕하세요! 오상미입니다!</h2>
+<h3 align="center">기술 스택</h3>
+<h4 align="center">제가 사용했던 기술 스택입니다</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
