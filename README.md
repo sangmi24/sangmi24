@@ -15,6 +15,9 @@
 2번의 프로젝트를 하였습니다. <br>
 영양제판매사이트와 재과관리사이트를 웹서버에 올린 경험이 있습니다.
 
+<h3>목표:bulb:</h3>
+백엔드에 관심이 많습니다. 
+
 <h3>기술 스택:wrench:</h3>
 <h4>제가 사용했던 기술 스택입니다</h4>
 
@@ -32,6 +35,12 @@
 
 
 </div>
+
+<h3>저를 더 알고싶다면</h3>- 노션 
+<a href="https://turquoise-puppet-095.notion.site/1ff9851c1cc74c9ba4c1ee885a9c04a6?v=540b3246a2704624bfc9e778e859f331">
+<img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&section=footer)
