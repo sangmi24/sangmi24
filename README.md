@@ -15,7 +15,7 @@
 영양제판매사이트와 재고관리사이트를 웹서버에 올린 경험이 있습니다.
 
 <h3>기술 스택:wrench:</h3>
-<h4>제가 사용했던 기술 스택입니다</h4>
+<h4>대표 기술 스택입니다</h4>
 
 <div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
