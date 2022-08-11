@@ -1,10 +1,11 @@
-
-<div align=center>
-
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=Hello,+I'm+sangmi!">
+</p>
+<br><br>
+<div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmioh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm sangmi&fontSize=70" />
 
 <h2>안녕하세요! 오상미입니다:smiley:</h2>
 
@@ -35,5 +36,3 @@
 
 
 
-
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&section=footer)
