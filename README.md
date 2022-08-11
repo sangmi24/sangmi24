@@ -1,6 +1,6 @@
 <br>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Oleo+Script&color=6B66FF&size=35&vCenter=true&width=404&height=53&lines=Hello,+I'm+sangmi!">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Oleo+Script&color=FF3366&size=35&vCenter=true&width=404&height=53&lines=Hello,+I'm+sangmi!">
 </p>
 <br><br>
 <div>
