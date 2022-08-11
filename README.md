@@ -1,5 +1,5 @@
 <br>
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Oleo+Script&color=6B66FF&size=35&center=true&vCenter=true&width=404&height=53&lines=Hello,+I'm+sangmi!">
 </p>
 <br><br>
